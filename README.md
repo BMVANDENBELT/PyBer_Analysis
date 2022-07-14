@@ -32,10 +32,10 @@ Analysis of large spreadsheets based on ride sharing in 2019 using Jupyter Noteb
 ---------------
   # FARE BY CITY TYPE
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107223178/179078774-72082b29-0acd-4aa8-b323-c7841e7c5c98.png)
-  - The line chart above displays total fare from Jan-April in 2019.
+  - The line chart above displays the trend in total fare from Jan-April in 2019.
 ---------------
   # RIDE COUNT DATA
--![Fig2](https://user-images.githubusercontent.com/107223178/179089860-15c00b64-638b-43a3-9d71-180259e0e5f8.png)
+![Fig2](https://user-images.githubusercontent.com/107223178/179089860-15c00b64-638b-43a3-9d71-180259e0e5f8.png)
   - The graphic above shows a box and whisker plot of the data describing where you can find the averages of the rides (based on fare) and how much they fluctuate (based on the outliers, or, "the extremes"). 
 --------------
 # Summary
